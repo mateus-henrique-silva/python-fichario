@@ -5,8 +5,8 @@ import time
 # Configuração do Fichar.io
 broker_address = "mqtt.fichar.io"
 broker_port = 1883
-username = "magtash"
-password = "Mateushenrique5@"
+username = ""
+password = ""
 device_id = "651c401d07cf75e75508c2a3"
 topic = f"{username}/{device_id}"
 
